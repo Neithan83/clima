@@ -1,0 +1,11 @@
+#temperature {
+    text-align: center;
+    font-size: 5em;
+}
+
+.cold {
+    color: black;
+
+.hot {
+    color: red;
+}
